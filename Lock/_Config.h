@@ -1,3 +1,5 @@
+//!! alanları doldurduktan sonra dosya adından "_" kaldırılmalı
+
 #define DEBUG
 
 #ifdef DEBUG
